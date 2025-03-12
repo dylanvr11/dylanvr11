@@ -30,15 +30,6 @@ am always eager to take on new challenges and expand my skills.
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
 </br>
 Y alguna más...
-
-### Find me at:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+573127495998-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](https://wa.me/573127495998)
-</br>
-[![Telegram](https://img.shields.io/badge/Telegram-+573127495998-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=101010)](https://t.me/+573127495998)
-</br>
-[![Twitter](https://img.shields.io/badge/Twitter-@dylanvr11-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/dylanvr11)
-</br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dylanvr11-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/dylanvr11)
 <!--
 **dylanvr11/dylanvr11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
